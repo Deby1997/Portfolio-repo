@@ -1,0 +1,87 @@
+.font{
+    color:palegreen;
+    font-size:35px;
+   
+}
+.name{
+    color:orange;
+}
+.flexible{
+    display:flex;
+    margin-bottom: 100px;
+}
+.para{
+    width:50%;
+    padding-left: 3%;
+}
+.para img{
+    width:80%;
+   padding-left: 10%; 
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    font-family: 'The Nautigal', cursive; 
+}
+body{
+    font-family: 'Pacifico', cursive;
+    margin: 0;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 200),red);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+  
+}
+.dream-color{
+    color:orchid
+}
+.para2{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.text{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.width{
+    width: 40%;
+   padding:5%;
+   margin:5%;
+    box-shadow: 10px 10px 40px rebeccapurple;
+    border-radius: 5px;
+}
+.line-color{
+    color: palevioletred;
+    font-family: 'Rock 3D', cursive;
+}
+#exp-aca1{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, purple) ;
+    border-image-slice: 1;
+}
+#exp-aca{
+    border-left: 10px solid;
+    border-image: linear-gradient(salmon, purple) ;
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
